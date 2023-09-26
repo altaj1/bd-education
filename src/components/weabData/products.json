@@ -1,0 +1,102 @@
+[
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"c++ Programming Lenguse",
+        "price":430,
+        "retaings":4.5,
+        "img":"../../images/c++.jpeg"
+        
+    },
+    {
+        "id":"2734",
+        "category":"Weabdevlopment",
+        "name":"Dango Frem-Work",
+        "price":530,
+        "retaings":4.5,
+        "img":"../../images/dango.jpeg"
+        
+    },
+    {
+        "id":"3jhjk324",
+        "category":"Weabdevlopment",
+        "name":"Go progrmming lenguse",
+        "price":350,
+        "retaings":4.5,
+        "img":"../../images/go.png"
+        
+    },
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"SQL Programming Lenguse",
+        "price":830,
+        "retaings":4.5,
+        "img":"../../images/download.jpeg"
+        
+    },
+    {
+        "id":"273jh",
+        "category":"Weabdevlopment",
+        "name":"HTML & CSS",
+        "price":230,
+        "retaings":4.5,
+        "img":"../../images/html and css.png"
+        
+    },
+    
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"JAVA Programming Lenguse",
+        "price":430,
+        "retaings":4.5,
+        "img":"../../images/java.webp"
+        
+    },
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"javaScript Lenguse",
+        "price":680,
+        "retaings":4.5,
+        "img":"../../images/javascript.webp"
+        
+    },
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"Next JS",
+        "price":520,
+        "retaings":4.5,
+        "img":"../../images/next js.jpeg"
+        
+    },
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"Paithon",
+        "price":783,
+        "retaings":4.5,
+        "img":"../../images/paithon.jpeg"
+        
+    },
+    {
+        "id":"273jhjk324",
+        "category":"Weabdevlopment",
+        "name":"React JS",
+        "price":980,
+        "retaings":4.5,
+        "img":"../../images/reacat js.png"
+        
+    },
+    {
+        "id":"273jhjk324",
+        "category":"Ganes devlopment",
+        "name":"",
+        "price":670,
+        "retaings":4.5,
+        "img":"../../images/unity.jpeg"
+        
+    }
+]

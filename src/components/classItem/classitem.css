@@ -1,0 +1,9 @@
+.topic{
+    border: 1px solid wheat;
+    padding-left: 20px;
+}
+.button{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    box-shadow: 5px gray;
+    border-radius: 5px;
+}

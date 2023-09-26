@@ -1,0 +1,14 @@
+.program-container{
+    display: flex;
+   
+}
+ 
+.program{
+    width: 70%;
+    border-right: 1px solid rgb(28, 174, 126);
+}  
+.cart {
+    text-align: center;
+}
+    
+   
